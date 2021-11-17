@@ -22,7 +22,10 @@ body
     right: 0;
     top: 0;
     bottom: 0;
-    background-color: #ddd;
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/f1d0d572816947.5c2bcd89d519b.gif");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     align-items: center;
     justify-content: center;
 }
@@ -53,12 +56,12 @@ body
     height: 5px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
-    background-color: #ff0096;
+    background-color: #090078;
 }
 
 .card h1
 {
-    color: #ff0096;
+    color: #090078;
 }
 
 .card p
